@@ -1,31 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sami Batshoun - Scholarly Writing</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 40px;
-            text-align: center;
-        }
-        h1 {
-            font-size: 2em;
-        }
-        .writing-list {
-            list-style: none;
-            padding: 0;
-        }
-        .writing-list li {
-            margin: 10px 0;
-        }
-        a {
-            text-decoration: none;
-            color: blue;
-        }
-    </style>
-</head>
 <body>
     <h1>Sami Batshoun</h1>
     <h2>Scholarly Writing</h2>
